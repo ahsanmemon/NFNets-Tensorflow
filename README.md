@@ -3,7 +3,7 @@
 
 Paper: https://arxiv.org/abs/2102.06171.pdf
 
-Original code: https://github.com/deepmind/deepmind-research/tree/master/nfnets
+Original code: https://github.com/deepmind/deepmind-research/tree/master/nfnets<br>
 Original code: https://github.com/ypeleg/nfnets-keras
 
 Do star this repository if it helps your work!
