@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: nfnets-keras
+Version: 0.0.1
+Summary: NFNets, Keras
+Home-page: https://github.com/ypeleg/nfnets-keras
+Author: Yam Peleg
+Author-email: ypeleg2@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: computer vision,image classification,keras,tensorflow,adaptive gradient clipping
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8

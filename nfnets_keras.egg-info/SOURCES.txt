@@ -1,0 +1,12 @@
+README.md
+setup.py
+nfnets_keras/__init__.py
+nfnets_keras/nfnet.py
+nfnets_keras/nfnet_layers.py
+nfnets_keras/sgd_agc.py
+nfnets_keras.egg-info/PKG-INFO
+nfnets_keras.egg-info/SOURCES.txt
+nfnets_keras.egg-info/dependency_links.txt
+nfnets_keras.egg-info/requires.txt
+nfnets_keras.egg-info/top_level.txt
+tests/__init__.py
